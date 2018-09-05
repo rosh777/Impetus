@@ -50,7 +50,7 @@ SECRET_KEY = '^_mvsg(=3xvm6-t$yr^59$)k12qw^nop=7d-(s%1m05z3+5j(b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['impetusforall.herokuapp.com']
 
 
 # Application definition
