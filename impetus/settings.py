@@ -110,12 +110,20 @@ WSGI_APPLICATION = 'impetus.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'impetus',
-        'USER': 'impetus',
-        'PASSWORD': 'impetus',
-        'HOST': 'localhost',
+        'NAME': 'd40un7uhn2idli',
+        'USER': 'mbrcmmiwfzxkhm',
+        'PASSWORD': '4f4fe52d4ac3a725d1e975355c22d6f11cfa24d4bca07f98d2bf68cb89fc79a6',
+        'HOST': 'ec2-54-235-86-226.compute-1.amazonaws.com',
         'PORT': '5432',
     }
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.postgresql',
+    #     'NAME': 'impetus',
+    #     'USER': 'impetus',
+    #     'PASSWORD': 'impetus',
+    #     'HOST': 'localhost',
+    #     'PORT': '5432',
+    # }
 }
 
 
